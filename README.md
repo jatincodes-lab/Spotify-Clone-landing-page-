@@ -33,9 +33,5 @@ This project is a **Spotify Web Player Clone**, designed for educational purpose
 
 Check out the project live [here](https://jatincodes-lab.github.io/Spotify-Clone-landing-page-/).
 
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/jatincodes-lab/spotify-clone.git
+##
 
